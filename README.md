@@ -25,6 +25,8 @@
 ![HTTP](https://img.shields.io/badge/HTTP-005C99?style=for-the-badge&logo=w3c&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI/UX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0277BD?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
 
 ## 📫 Contacto
 
