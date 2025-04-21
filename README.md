@@ -26,6 +26,13 @@
 ![UI/UX](https://img.shields.io/badge/UI/UX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0277BD?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
+## 📫 Contacto
+
+- 📧 **Correo:** [dorian.zuluaga@hotmail.com](mailto:tu-email@dominio.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/dorian/zuluaga](https://linkedin.com/in/tu-perfil)  
+- 📸 **Instagram:** [instagram.com/tu-usuario](https://instagram.com/tu-usuario)
+
+
 ## 🎓 Educación
 
 - **Desarrollo Full Stack**  
