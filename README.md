@@ -29,7 +29,7 @@
 ## 📫 Contacto
 
 - 📧 **Correo:** [Correo](dorian.zuluaga@hotmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/dorian/zuluaga](https://linkedin.com/in/tu-perfil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-zuluaga/)
 - 📸 **Instagram:** [instagram.com/tu-usuario](https://instagram.com/https://instagram.com/dorianzuluaga?igshid=YmMyMTA2M2Y=)
 
 
