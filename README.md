@@ -1,7 +1,7 @@
 ## Hola soy Dorian Zuluaga, un apasionado por el construir tecnología con propósito.
 ![full stack fondo](https://github.com/user-attachments/assets/a5a62f4c-499a-4cee-b8af-bd2accb72dcb)
 
-Habilidades Técnicas:
+## ⚙️ Habilidades Técnicas:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,9 +25,13 @@ Habilidades Técnicas:
 ![HTTP](https://img.shields.io/badge/HTTP-005C99?style=for-the-badge&logo=w3c&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI/UX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0277BD?style=for-the-badge&logo=scrumalliance&logoColor=white)
-Educación:
+
+## 🎓 Educación
+
+- **Desarrollo Full Stack**  
+  4geek Academy  
 
 
-Estadisticas:
+## 📊 Estadisticas:
 
 ![Dorian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dorian&show_icons=true&theme=radical)
