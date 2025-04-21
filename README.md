@@ -28,9 +28,9 @@
 
 ## 📫 Contacto
 
-- 📧 **Correo:** [dorian.zuluaga@hotmail.com](mailto:tu-email@dominio.com)  
+- 📧 **Correo:** [Correo](dorian.zuluaga@hotmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/dorian/zuluaga](https://linkedin.com/in/tu-perfil)  
-- 📸 **Instagram:** [instagram.com/tu-usuario](https://instagram.com/tu-usuario)
+- 📸 **Instagram:** [instagram.com/tu-usuario](https://instagram.com/https://instagram.com/dorianzuluaga?igshid=YmMyMTA2M2Y=)
 
 
 ## 🎓 Educación
