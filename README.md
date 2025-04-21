@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hola soy Dorian Zuluaga
 
 <!--
-**Dorianzuluaga/Dorianzuluaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hola! soy Dorian, un apasionado por el construir tecnología con propósito.
 
-Here are some ideas to get you started:
+Habilidades Técnicas:
 
-- 🔭 I’m currently working on ...
+ https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
