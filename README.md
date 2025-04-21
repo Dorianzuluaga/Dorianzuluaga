@@ -1,9 +1,5 @@
 ## Hola soy Dorian Zuluaga, un apasionado por el construir tecnología con propósito.
 
-![que-es-full-stack](https://github.com/user-attachments/assets/215c3507-ea81-45a7-9fb7-24a50b084c00)
-
-
-
 Habilidades Técnicas:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
