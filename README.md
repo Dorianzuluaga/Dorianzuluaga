@@ -42,11 +42,11 @@
 ## 📊 Estadisticas:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dorianzuluaga&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dorianzuluaga&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="20%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dorianzuluaga&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dorianzuluaga&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="20%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorianzuluaga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorianzuluaga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="20%" />
 </div>
