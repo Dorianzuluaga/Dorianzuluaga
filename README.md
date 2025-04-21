@@ -1,6 +1,6 @@
 ## Hola soy Dorian Zuluaga
 
-<!--
+
 **Hola! soy Dorian, un apasionado por el construir tecnología con propósito.
 
 Habilidades Técnicas:
