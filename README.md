@@ -42,7 +42,9 @@
 ## 📊 Estadisticas:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dorianzuluaga&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="20%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dorianzuluaga&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="30%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dorianzuluaga&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorianzuluaga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="30%" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dorianzuluaga&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="20%" />
