@@ -25,6 +25,9 @@ Habilidades Técnicas:
 ![HTTP](https://img.shields.io/badge/HTTP-005C99?style=for-the-badge&logo=w3c&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI/UX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0277BD?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
 Educación:
+
+
+Estadisticas:
+
 ![Dorian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dorian&show_icons=true&theme=radical)
