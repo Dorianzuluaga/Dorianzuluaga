@@ -1,4 +1,5 @@
 ## Hola soy Dorian Zuluaga, un apasionado por el construir tecnología con propósito.
+![full stack fondo](https://github.com/user-attachments/assets/a5a62f4c-499a-4cee-b8af-bd2accb72dcb)
 
 Habilidades Técnicas:
 
